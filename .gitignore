@@ -1,8 +1,5 @@
-/.venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-/.idea/
-*.swp
+__pycache__
+.venv/
+.~lock*
 *.kate-swp
+.chromium-browser/
